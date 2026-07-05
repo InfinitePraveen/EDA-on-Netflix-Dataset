@@ -101,6 +101,7 @@ The notebook explores various aspects of the dataset, including:
    Navigate to the notebooks folder and open Netflix_EDA.ipynb.
 
    Execute the cells sequentially to run the analysis and see the visualizations.
+```
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions for additional analysis, find issues, or want to improve the code, please feel free to:
