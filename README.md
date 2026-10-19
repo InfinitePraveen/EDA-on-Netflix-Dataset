@@ -114,7 +114,7 @@ Fork the repository and submit a pull request.
 This project is open-source and available under the MIT License.
 
 ✨ Author
-Praveen Kumar (InfinitePraveen)
+[Praveen Kumar](https://www.linkedin.com/in/infinitepraveen)
 
 ## 🏷️ Tags
 
